@@ -1,0 +1,25 @@
+{
+  "name": "stocks92",
+  "version": "1.0.0",
+  "description": "Stock development using alphavantage api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eran-dev92/stocks92.git"
+  },
+  "author": "Eran b.a",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eran-dev92/stocks92/issues"
+  },
+  "homepage": "https://github.com/eran-dev92/stocks92#readme",
+  "dependencies": {
+    "alphavantage": "^2.0.1",
+    "express": "^4.17.1",
+    "mongodb": "^3.5.9",
+    "request": "^2.88.2"
+  }
+}
