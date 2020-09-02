@@ -1,7 +1,7 @@
 const express = require('express');
 const bodyParser = require('body-parser');
 const app = express();
-const alpha = require('alphavantage')({ key: 'P0F2Q0Y2TCKCBDFI' });
+const alpha = require('alphavantage')({ key: '' });
 const port = 3000;
 
 //alpha.data.intraday(`msft`).then(data => {
